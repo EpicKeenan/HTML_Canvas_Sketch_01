@@ -4,4 +4,4 @@ This is my very first HTML Canvas sketch. This sketch was created using HTML 5, 
 https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL
 
 Below is the link to the project.
-https://github.com/EpicKeenan/HTML_Canvas_Sketch_01.git
+https://epickeenan.github.io/HTML_Canvas_Sketch_01/
