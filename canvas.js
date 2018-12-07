@@ -142,7 +142,7 @@ function init() {
     
     circleArray = [];
     
-    for (var i = 0; i < 1200; i++){
+    for (var i = 0; i < 1600; i++){
     
         //var circle = new Circle (200, 200, 3, 3, 30);
     
